@@ -5,19 +5,33 @@ CyberSleuth Toolkit is a comprehensive batch script designed for cybersecurity p
 # Features:
 
 System Information Gathering: Quickly retrieve detailed system specs and installed software.
+
 Network Diagnostics: Test connectivity, display routing tables, and check active connections.
+
 File Integrity Checks: Generate and verify checksums for files in specified directories.
+
 Process Monitoring: List running processes with detailed information.
+
 Log File Analysis: Search for specific keywords in log files.
+
 Open Ports Check: Identify listening ports on the system.
+
 Network Configuration Display: View detailed network settings and configurations.
+
 Malware Check: Utilize Windows Defender to scan for potential threats.
+
 Scheduled Tasks Listing: View all scheduled tasks on the system.
+
 System Uptime Check: Determine how long the system has been running.
+
 Environment Variables Display: List all environment variables.
+
 Disk Usage Check: Analyze disk space usage and available free space.
+
 User Accounts Listing: Display all user accounts on the system.
+
 Firewall Status Check: Review the status of the Windows Firewall.
+
 Windows Updates Check: Check for available Windows updates.
 
 # Usage:
