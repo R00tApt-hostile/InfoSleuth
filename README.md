@@ -36,10 +36,13 @@ Windows Updates Check: Check for available Windows updates.
 
 # Usage:
 
-Simply download the batch file, run it, and navigate through the menu to access various tools. This toolkit is designed to be easy to use, making it suitable for both beginners and experienced users in the field of cybersecurity.
+Simply download the batch file, run it, and navigate through the menu to access various tools.
+
+This toolkit is designed to be easy to use, making it suitable for both beginners and experienced users in the field of cybersecurity.
 
 # Requirements:
 
 Windows Operating System
+
 Administrative privileges may be required for certain functions.
 
